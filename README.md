@@ -15,6 +15,6 @@ plt.show()
 Open the file to see more
 
 ### Contributing
-Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes tests where applicable.
+You can fork the repository. Ensure your code follows the project's coding standards and includes tests where applicable.
 
 ### Feel free to customize this template according to your specific project details and preferences.
