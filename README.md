@@ -14,7 +14,5 @@ plt.show()
 ```
 Open the file to see more
 
-### Contributing
-You can fork the repository. Ensure your code follows the project's coding standards and includes tests where applicable.
 
 ### Feel free to customize this template according to your specific project details and preferences.
